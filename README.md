@@ -1,43 +1,41 @@
-# Law Uncle
+# 🚀 **LawUncle** - Legal Assistance Anytime, Anywhere 🌐
 
-## Getting Started
+[🌟 **LawUncle**](https://lawuncle.onrender.com/) is a **blockchain-based** app that connects you with lawyers instantly. Developed by **DevUncles**, it combines cutting-edge technology like **Huddle 01** for video calls, **Okto Wallet** for easy payments, and **Gemini AI** for intelligent legal assistance. Get legal help in no time—on demand, anywhere!
 
-To start, run the following command in the root directory:
+---
 
-```bash
-npm install
-```
+## ✨ **Features** 
 
-## Set Constants
+- ⚖️ **On-Demand Legal Assistance**: Connect with lawyers instantly for professional legal help.
+- 📞 **Video Conferencing (Huddle 01)**: Real-time face-to-face consultations with high-quality video calls.
+- 💳 **Seamless Payments (Okto Wallet)**: Effortless, secure payments via the Okto Wallet integrated with blockchain tech.
+- 🤖 **AI Legal Chat (Gemini AI)**: Receive accurate legal advice powered by Gemini, an AI trained with vast legal datasets.
+- 💸 **Transaction Fees**: A small fee is charged for every transaction processed on the platform.
+- 🔗 **Connection Fees**: LawUncle earns a small commission for connecting users with the right lawyers.
+- 🛡️ **Subscription/Premium Model** (coming soon): For large cases, access premium services such as priority consultations and exclusive access to top lawyers.
 
-In the `src/constants` directory, create a file named `index.tsx`. Inside this file, define the following constants:
+---
 
-```typescript
-export const API_KEY = 'YOUR_API_KEY_HERE';
-export const PROJECT_ID = 'YOUR_PROJECT_ID_HERE';
-export const GeminiKey = 'YOUR_GEMINI_KEY_HERE';
-```
+## 🔧 **Tech Stack**
 
-## Usage
+- **Blockchain Technology**: Transparent and secure transactions using blockchain.
+- **Huddle 01**: Seamless video conferencing for face-to-face consultations.
+- **Okto Wallet**: Integrated blockchain-based wallet for easy transactions.
+- **Gemini AI**: AI-powered chat assistance, offering accurate legal advice.
+- **ReactJS**: Front-end framework for building responsive user interfaces.
+- **Node.js & Express**: Backend server and API management.
 
-After setting the constants, you can use them in your project for API calls or any other configurations.
+---
 
-## Commands
+## 🏃‍♂️ **How to Run Locally**
 
-Once the dependencies are installed, you can run the following command to start the application:
+### 🔑 **Prerequisites**
 
-```bash
-npm start
-//or
-npx react-native start
-```
+Make sure you have the following tools installed:
 
-After the Metro bundler starts, use the following commands:
-
-- To build for Android: Press 'a'
-- To build for iOS: Press 'i'
-
-## Note
-
-Please replace the placeholder strings in the constants with your actual API keys and project ID.
-
+- **Node.js** (v12 or higher)
+- **npm** (v6 or higher)
+- **MongoDB** (if required for local testing)
+- **Okto Wallet API credentials** (for payments)
+- **Huddle 01 API credentials** (for video conferencing)
+- **Gemini AI API credentials** (for legal assistance)
